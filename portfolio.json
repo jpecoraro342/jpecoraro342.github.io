@@ -1,0 +1,37 @@
+{
+  "portfolio": [
+    {
+      "title": "Haulbox - iOS",
+      "description": "Haulbox is an IOS application I developed while working at Starter Space. Haulbox is a physical storage by the box solution. The application allows users to be able to order boxes, manage account info, and take pictures of items they place in the boxes for easy retrieval later.",
+      "description-bullets": [
+        "bullet point 1",
+        "bullet point 2"
+      ],
+      "github": null,
+      "primary-image": "haulbox.png",
+      "screenshots": [
+        "screenshot1.png",
+        "screenshot2.png"
+      ],
+      "appstore": "https://itunes.apple.com/us/app/haulbox/id947930432?mt=8",
+      "link": null
+    },
+    {
+      "title": "MageKnight - Unity",
+      "description": "Mage Knight is an action RPG made for the PC with Unity",
+      "description-bullets": [
+        "Created a playable demo of an original top-down 3D dungeon crawler complete with all standard RPG features",
+        "Implemented a custom character controller with realistic physics, dynamic attack modes, and gamepad integration",
+        "Modified existing animations to complement character actions, and give the game a realistic look and feel"
+      ],
+      "github": "https://github.com/jpecoraro342/Mage-Knight",
+      "primary-image": "mageknight.png",
+      "screenshots": [
+        "screenshot1.png",
+        "screenshot2.png"
+      ],
+      "appstore": null,
+      "link": null
+    }
+  ]
+}

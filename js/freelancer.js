@@ -4,6 +4,17 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+$(function() {
+    // TODO: Parse the json file, create cards, and add them to the screen
+});
+
+// Card Generation
+
+var card = function(project) {
+    // Create and return HTML snippet for card
+}
+
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
