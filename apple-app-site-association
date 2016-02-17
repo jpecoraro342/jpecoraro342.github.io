@@ -1,10 +1,10 @@
 {
-    “applinks”: {
-        “apps”: [],
-        “details”: [
+    "applinks": {
+        "apps": [],
+        "details": [
             {
-                “appID”: “E6F2F2QY8V.com.GrayWolfTechnologies.Tize“,
-                “paths”: [ “/adduser?*” ]
+                "appID": "E6F2F2QY8V.com.GrayWolfTechnologies.Tize",
+                "paths": [ "/adduser/*", "*" ]
             }
         ]
     }
